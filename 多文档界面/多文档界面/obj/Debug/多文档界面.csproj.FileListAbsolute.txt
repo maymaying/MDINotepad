@@ -1,0 +1,10 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\bin\Debug\多文档界面.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\bin\Debug\多文档界面.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\bin\Debug\多文档界面.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.Form2.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.csproj.GenerateResource.Cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\多文档界面\多文档界面\obj\Debug\多文档界面.pdb

@@ -1,0 +1,10 @@
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe.config
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\bin\Debug\MDINotepad.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\bin\Debug\MDINotepad.pdb
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.csprojResolveAssemblyReference.cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.Form1.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.MDIForm.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.Properties.Resources.resources
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.csproj.GenerateResource.Cache
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.exe
+E:\C#代码\计科1702-41709010221-梅莹莹\C#实验\MDINotepad\MDINotepad\obj\Debug\MDINotepad.pdb
